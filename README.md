@@ -1,7 +1,7 @@
 # Fundamentos esenciales de Java
 
 ## Resumen del curso
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios programas sencillos con java. No requiere descargas y solo es necesario abrir tu navegador web.
+Este curso de 1 hora introduce a estudiantes de secundaria a la creación de programas sencillos con java. No requiere descargas y solo es necesario abrir tu navegador web.
 
 - Duración total: ~60 minutos
 
