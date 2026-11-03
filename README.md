@@ -2,11 +2,23 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
 programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+<br>
+
 **Duración total**: ~60 minutos
+<br>
+
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+<br>
+
 **Prerrequisitos**: Ninguno
+<br>
+
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+<br>
+
 **📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-courseteamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+<br>
+
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
@@ -38,27 +50,66 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+
+<br><br>
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Todas las actividades prácticas**:
-| Número de lección | Actividad | Empezar a programar |
-|----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+<table>
+  <thead>
+    <tr>
+      <th align="center">Número de lección</th>
+      <th align="left">Actividad</th>
+      <th align="left">Empezar a programar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Hola mundo</td>
+      <td><a href="https://replit.com/@your-lesson1">Replit</a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Variables</td>
+      <td><a href="https://replit.com/@your-lesson2">Replit</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Bucles</td>
+      <td><a href="https://jdoodle.com/execute-java-online/your-lesson3">JDoodle</a></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Métodos y clases</td>
+      <td><a href="https://onlinegdb.com/your-lesson4">OnlineGDB</a></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Programa OOP</td>
+      <td><a href="https://replit.com/@your-lesson5">Replit</a></td>
+    </tr>
+  </tbody>
+</table>
+
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
+<br>
+
 Carrera de Ingeniería de Software
+<br>
+
 Período 202620
+<br>
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de tu equipo]
-**Líder del equipo**: [Nombres y Apellidos]
-**Integrantes del equipo**: [Nombres y Apellidos]
-**Fecha de entrega**: [Fecha]
+<br>
+
+NRC [7800]
+- **Nombre del equipo**: [Nombre de tu equipo]
+- **Líder del equipo**: Kelber Yamir Sandoval Aiquipa
+- **Integrantes del equipo**: [Nombres y Apellidos]
+- **Fecha de entrega**: [Fecha]
