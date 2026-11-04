@@ -30,7 +30,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
-### Lección 3: Estructuras de control
+### Lección 3: Estructuras de control y bucles
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
@@ -40,32 +40,26 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
-### Lección 5: Introducción a la POO: Clases, objetos, constructores y métodos simples
+### Lección 5: Introducción a la POO: Clases, objetos, constructores y métodos simples 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 ### Lección 6: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
 simple
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-### Lección 7: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
-simple
 - **Descripción**: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
 objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-### Lección 8: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
+### Lección 7: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
 simple
 - **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
-### Lección 9: Consejos y próximos pasos
+### Lección 8: Consejos y próximos pasos
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
