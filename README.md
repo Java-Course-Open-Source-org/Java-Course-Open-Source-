@@ -55,21 +55,13 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
 
   
-### Lección 6: Introducción a la POO: Clases, objetos, constructores y métodos simples 
-- **Descripción**: Construye clases con atributos/métodos.
+### Lección 6: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
+- **Descripción**: Construye clases con atributos y métodos, y protege las estadísticas de tu héroe (como los puntos de vida) para que no sean modificadas por error usando getters y setters.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**: class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base.
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
+- **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Guarda y comparte!**
 
-  
-### Lección 7: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
-simple
-- **Descripción**: Protege los puntos de vida de tu héroe para que no puedan ser modificados por error usando getters y setters.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**: Encapsulación con getters; uso de modificadores private; métodos getHp() y setHp() para interactuar de forma segura con los datos.
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-
-### Lección 8: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
+### Lección 7: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
 objetos.
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos)
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
@@ -77,7 +69,7 @@ objetos.
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
 
-### Lección 9: Desarrollo de un programa básico
+### Lección 8: Desarrollo de un programa básico
 - **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
