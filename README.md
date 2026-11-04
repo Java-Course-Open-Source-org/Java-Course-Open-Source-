@@ -36,7 +36,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   
 ### Lección 3: Scanner y Decisiones (If-Else), bucles y métodos 
 - **Descripción**: Toma decisiones con if-else y recibe datos desde el teclado con Scanner
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceFQ)
 - **Conclusiones clave**: Uso de la herramienta Scanner; sentencias if (opcion == 1) {} para atacar y else para defender.
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 
