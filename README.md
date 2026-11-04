@@ -36,32 +36,18 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   
 ### Lección 3: Scanner y Decisiones (If-Else), bucles y métodos 
 - **Descripción**: Toma decisiones con if-else y recibe datos desde el teclado con Scanner
-- **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceFQ)
+- **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceF)
 - **Conclusiones clave**: Uso de la herramienta Scanner; sentencias if (opcion == 1) {} para atacar y else para defender.
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 
   
-### Lección 4: El Game Loop (Bucles While)
-- **Descripción**: Haz que la batalla continúe turno tras turno automáticamente hasta que alguien gane usando repeticiones.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**: El bucle while (hp > 0) mantiene el juego activo; cuidado con los bucles infinitos.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
-
-  
-### Lección 5: Métodos y Parámetros
-- **Descripción**: Agrupa acciones repetitivas (como calcular daño) en pequeños bloques de código reutilizables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**: Crea comandos propios como public static void recibirDano(int dano) {} para tener un código limpio.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
-
-  
-### Lección 6: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
+### Lección 4: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
 - **Descripción**: Construye clases con atributos y métodos, y protege las estadísticas de tu héroe (como los puntos de vida) para que no sean modificadas por error usando getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/nfTIeKBivSc)
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
 - **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Guarda y comparte!**
 
-### Lección 7: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
+### Lección 5: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
 objetos.
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos)
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
@@ -69,13 +55,13 @@ objetos.
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
 
-### Lección 8: Desarrollo de un programa básico
+### Lección 6: Desarrollo de un programa básico
 - **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
-### Lección 8: Consejos y próximos pasos
+### Lección 7: Consejos y próximos pasos
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
