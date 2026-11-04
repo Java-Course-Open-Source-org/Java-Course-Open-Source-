@@ -67,12 +67,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
     <tr>
       <td align="center">1</td>
       <td>Hola mundo</td>
-      <td><a href="https://replit.com/@your-lesson1">Replit</a></td>
+      <td><a href="https://replit.com/@your-lesson1">JDoodle</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Variables</td>
-      <td><a href="https://replit.com/@your-lesson2">Replit</a></td>
+      <td><a href="https://replit.com/@your-lesson2">JDoodle</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
@@ -82,12 +82,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
     <tr>
       <td align="center">4</td>
       <td>Métodos y clases</td>
-      <td><a href="https://onlinegdb.com/your-lesson4">OnlineGDB</a></td>
+      <td><a href="https://onlinegdb.com/your-lesson4">JDoodle</a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Programa OOP</td>
-      <td><a href="https://replit.com/@your-lesson5">Replit</a></td>
+      <td><a href="https://replit.com/@your-lesson5">JDoodle</a></td>
     </tr>
   </tbody>
 </table>
