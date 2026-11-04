@@ -34,9 +34,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
 
   
-### Lección 3: Scanner y Decisiones (If-Else)
+### Lección 3: Scanner y Decisiones (If-Else), bucles y métodos 
 - **Descripción**: Toma decisiones con if-else y recibe datos desde el teclado con Scanner
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceFQ)
 - **Conclusiones clave**: Uso de la herramienta Scanner; sentencias if (opcion == 1) {} para atacar y else para defender.
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 
@@ -57,7 +57,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   
 ### Lección 6: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
 - **Descripción**: Construye clases con atributos y métodos, y protege las estadísticas de tu héroe (como los puntos de vida) para que no sean modificadas por error usando getters y setters.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/nfTIeKBivSc)
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
 - **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Guarda y comparte!**
 
@@ -75,7 +75,7 @@ objetos.
 - **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
-### Lección 10: Consejos y próximos pasos
+### Lección 8: Consejos y próximos pasos
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
