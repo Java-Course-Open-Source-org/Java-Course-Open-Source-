@@ -52,8 +52,7 @@ objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-### Lección 7: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación
-simple
+### Lección 7: Desarrollo de un programa básico
 - **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
