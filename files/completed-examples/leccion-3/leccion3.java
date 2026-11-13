@@ -1,46 +1,44 @@
-// 1. Creación de una clase (El "molde")
-class Personaje {
-    // Encapsulación: atributos privados
-    private String nombre;
-    private int hp;
-    
-    // Constructor
-    public Personaje(String nombre, int hp) {
-        this.nombre = nombre;
-        this.hp = hp;
-    }
-    
-    // Getters para poder leer los datos protegidos
-    public String getNombre() { return nombre; }
-    public int getHp() { return hp; }
-    
-    // 2. Métodos (comportamientos)
-    public void recibirDano(int cantidad) {
-        this.hp = this.hp - cantidad;
-        if (this.hp < 0) {
-            this.hp = 0; // Nunca bajará de cero
-        }
-        System.out.println(this.nombre + " recibe " + cantidad + " de daño.");
-    }
-}
+import java.util.Scanner; // Importar herramienta de entrada
 
 public class Main {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         
-        // 3. Instanciación: Creamos los objetos a partir de la clase
-        Personaje heroe = new Personaje("Arthur", 100);
-        Personaje monstruo = new Personaje("Dragón", 50);
+        // Pedimos datos al usuario
+        System.out.print("Ingresa el nombre de tu héroe: ");
+        String nombreHeroe = scanner.nextLine();
         
-        System.out.println("¡Combate: " + heroe.getNombre() + " VS " + monstruo.getNombre() + "!");
+        int hp = 100;
+        int hpMonstruo = 50;
         
-        // Usamos los métodos en lugar de cambiar variables sueltas
-        monstruo.recibirDano(20);
-        System.out.println("HP del Dragón: " + monstruo.getHp());
+        System.out.println("¡Un Orco aparece y comienza el combate!");
         
-        heroe.recibirDano(15);
-        System.out.println("Tu HP: " + heroe.getHp());
+        // 1. Bucle while: Repetir mientras ambos estén vivos
+        while (hp > 0 && hpMonstruo > 0) {
+            System.out.println("\nTu HP: " + hp + " | HP Orco: " + hpMonstruo);
+            System.out.println("¿Qué haces? (1 = Atacar, 2 = Huir): ");
+            
+            int opcion = scanner.nextInt();
+            
+            // 2. Estructuras condicionales if-else
+            if (opcion == 1) {
+                System.out.println("¡Atacas al Orco con tu espada!");
+                hpMonstruo = hpMonstruo - 20;
+                
+                if (hpMonstruo > 0) {
+                    System.out.println("¡El Orco contraataca!");
+                    hp = hp - 15;
+                }
+            } else if (opcion == 2) {
+                System.out.println("¡Huyes del combate como un cobarde!");
+                break; // Rompe el bucle
+            } else {
+                System.out.println("Opción inválida. ¡Pierdes tu turno!");
+            }
+        }
         
-        // (En el video, el alumno puede meter este código dentro 
-        // del bucle while de la versión 2 para ver cómo funciona junto).
+        if (hp > 0 && hpMonstruo <= 0) {
+            System.out.println("\n🏆 ¡Has derrotado al Orco, " + nombreHeroe + "!");
+        }
     }
 }
