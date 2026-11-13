@@ -16,7 +16,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 <br>
 
-**📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-courseteamname](https://github.com/Java-Course-Open-Source-org/javafundamentals-course-SafeZone.git)
+**📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-courseSafeZone](https://github.com/Java-Course-Open-Source-org/javafundamentals-course-SafeZone.git)
 <br>
 
 ## Secuencia de la Lección
