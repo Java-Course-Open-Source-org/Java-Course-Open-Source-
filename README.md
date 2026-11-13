@@ -50,7 +50,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ### Lección 5: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
 objetos.
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos)
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/1gS41_W92Fw)
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
