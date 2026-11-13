@@ -47,7 +47,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
 - **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 
-### Lección 5: Estructuras de Control: Manipulación de arrays y buenas prácticas
+### Lección 5: Estructuras de Datos: Manipulación de arrays y buenas prácticas
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos). Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/IhuHrcDtwyQ)
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
