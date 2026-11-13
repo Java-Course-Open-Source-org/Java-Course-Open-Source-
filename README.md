@@ -29,7 +29,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 ### Lección 2: Variables y tipos de datos
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/8oL_zPfshgU)
 - **Conclusiones clave**: Usa int para números y String para texto; declara tus datos como int hp = 100; o String nombre = "Héroe";.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
