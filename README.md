@@ -81,7 +81,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>Hola mundo</td>
+      <td>¡Bienvenido a Java Quest!</td>
       <td><a href="https://replit.com/@your-lesson1">JDoodle</a></td>
     </tr>
     <tr>
