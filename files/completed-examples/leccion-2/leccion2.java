@@ -1,44 +1,27 @@
-import java.util.Scanner; // Importar herramienta de entrada
-
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         
-        // Pedimos datos al usuario
-        System.out.print("Ingresa el nombre de tu héroe: ");
-        String nombreHeroe = scanner.nextLine();
-        
+        // 1. Sintaxis básica y tipos de datos (int, String)
+        String nombreHeroe = "Arthur";
         int hp = 100;
-        int hpMonstruo = 50;
+        int ataqueBase = 15;
         
-        System.out.println("¡Un Orco aparece y comienza el combate!");
+        // Mensaje de bienvenida (Salida en consola)
+        System.out.println("¡Bienvenido al Calabozo, " + nombreHeroe + "!");
+        System.out.println("Tus Puntos de Vida (HP) son: " + hp);
+        System.out.println("--------------------------------");
         
-        // 1. Bucle while: Repetir mientras ambos estén vivos
-        while (hp > 0 && hpMonstruo > 0) {
-            System.out.println("\nTu HP: " + hp + " | HP Orco: " + hpMonstruo);
-            System.out.println("¿Qué haces? (1 = Atacar, 2 = Huir): ");
-            
-            int opcion = scanner.nextInt();
-            
-            // 2. Estructuras condicionales if-else
-            if (opcion == 1) {
-                System.out.println("¡Atacas al Orco con tu espada!");
-                hpMonstruo = hpMonstruo - 20;
-                
-                if (hpMonstruo > 0) {
-                    System.out.println("¡El Orco contraataca!");
-                    hp = hp - 15;
-                }
-            } else if (opcion == 2) {
-                System.out.println("¡Huyes del combate como un cobarde!");
-                break; // Rompe el bucle
-            } else {
-                System.out.println("Opción inválida. ¡Pierdes tu turno!");
-            }
-        }
+        System.out.println("¡Un Orco salvaje te ha golpeado por sorpresa!");
         
-        if (hp > 0 && hpMonstruo <= 0) {
-            System.out.println("\n🏆 ¡Has derrotado al Orco, " + nombreHeroe + "!");
-        }
+        // 2. Operadores y expresiones
+        // Restamos 20 al HP actual
+        hp = hp - 20; 
+        
+        System.out.println("¡Ouch! Tu vida bajó.");
+        System.out.println("HP restante: " + hp);
+        
+        // Operación matemática simple
+        int danoDoble = ataqueBase * 2;
+        System.out.println("¡Contraatacas con un golpe crítico de " + danoDoble + " puntos!");
     }
 }
