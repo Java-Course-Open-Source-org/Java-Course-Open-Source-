@@ -1,4 +1,4 @@
-# Fundamentos de Java para Principiantes
+<img width="1368" height="812" alt="image" src="https://github.com/user-attachments/assets/71547352-5049-49c1-91b5-9401ffe7d402" /># Fundamentos de Java para Principiantes
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
 programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
@@ -22,43 +22,43 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación?
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/Bd7nxzZ_bsE)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Empieza a programar**: [Click para programar](https://www.jdoodle.com/online-java-compiler)
 
 
 ### Lección 2: Variables y tipos de datos
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Conclusiones clave**: Usa int para números y String para texto; declara tus datos como int hp = 100; o String nombre = "Héroe";.
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
   
 ### Lección 3: Scanner y Decisiones (If-Else), bucles y métodos 
 - **Descripción**: Toma decisiones con if-else y recibe datos desde el teclado con Scanner
 - **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceFQ)
 - **Conclusiones clave**: Uso de la herramienta Scanner; sentencias if (opcion == 1) {} para atacar y else para defender.
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
   
 ### Lección 4: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
 - **Descripción**: Construye clases con atributos y métodos, y protege las estadísticas de tu héroe (como los puntos de vida) para que no sean modificadas por error usando getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/nfTIeKBivSc)
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
-- **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 
 ### Lección 5: Estructuras de Control: Manipulación de arrays y buenas prácticas
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos). Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/IhuHrcDtwyQ)
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 
 
 ### Lección 6: Desarrollo de un programa básico
 - **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 
 ### Lección 7: Módulo de práctica y próximos pasos
 - **Descripción**: Sección de práctica de las lección 5 de Manipulación de arrays y buenas prácticas.
