@@ -47,9 +47,8 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
 - **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/) 👈 **¡Guarda y comparte!**
 
-### Lección 5: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con
-objetos.
-- **Descripción**: Añade un inventario de pociones usando Arrays (arreglos)
+### Lección 5: Estructuras de Control: Manipulación de arrays y buenas prácticas
+- **Descripción**: Añade un inventario de pociones usando Arrays (arreglos). Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/IhuHrcDtwyQ)
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
@@ -61,8 +60,8 @@ objetos.
 - **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
-### Lección 7: Consejos y próximos pasos
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+### Lección 7: Módulo de práctica y próximos pasos
+- **Descripción**: Sección de práctica de las lección 5 de Manipulación de arrays y buenas prácticas.
 - **Enlace**: [Ver la lección](https://youtu.be/BeKfFpmhJWo)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
