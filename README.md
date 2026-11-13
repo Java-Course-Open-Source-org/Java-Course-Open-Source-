@@ -124,7 +124,11 @@ Período 202620
 <br>
 
 NRC [7800]
-- **Nombre del equipo**: [Nombre de tu equipo]
+- **Nombre del equipo**: SafeZone
 - **Líder del equipo**: Kelber Yamir Sandoval Aiquipa
-- **Integrantes del equipo**: [Nombres y Apellidos]
-- **Fecha de entrega**: [Fecha]
+- **Integrantes del equipo**:
+  * Anahua Ancachi Liz Maribel
+  * Perez Bellido Fernando Sebastian
+  * Ravello Cárdenas Luciana Angielina
+  * Sandoval Aiquipa Kelber Yamir
+- **Fecha de entrega**: 12/11/2026
