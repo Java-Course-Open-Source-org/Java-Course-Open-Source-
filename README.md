@@ -53,14 +53,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
 - **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
 
-
-### Lección 6: Desarrollo de un programa básico
-- **Descripción**: Desarrollo de un programa básico con todo lo explicado en el curso.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**: Integración total de estructuras de datos con objetos POO y de todo lo aprendido
-- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
-
-### Lección 7: Módulo de práctica y próximos pasos
+### Lección 6: Módulo de práctica y próximos pasos
 - **Descripción**: Sección de práctica de las lección 5 de Manipulación de arrays y buenas prácticas.
 - **Enlace**: [Ver la lección](https://youtu.be/BeKfFpmhJWo)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
